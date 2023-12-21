@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\pinkshop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\pinkshop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_01.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\image_01.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_02.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_03.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_04.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_05.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_06.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\image_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image_07.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\iphone15.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\slideitmoo_back.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideitmoo_back.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\slideitmoo_forward.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slideitmoo_forward.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_body.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_body.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_button.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_button.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_button_hover.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_button_hover.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_footer.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_footer.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_header_right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_header_right.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_list.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_list.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_logo.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_menu_divider.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_menu_divider.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_01.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_02.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_03.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_04.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_05.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_06.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_07.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_product_08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_product_08.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_search_box.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_search_box.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_sidebar_bottom.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_sidebar_bottom.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_sidebar_header.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_sidebar_header.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_sidebar_middle.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_sidebar_middle.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_sidebar_top.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_sidebar_top.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_site_title_left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_site_title_left.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_site_title_right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_site_title_right.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\templatemo_slider_tr.png",
+      "PackagePath": "staticwebassets\\assets\\images\\templatemo_slider_tr.png"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\vivoIQOOneo5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vivoIQOOneo5.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\images\\xiaomi12ultra.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\xiaomi12ultra.jpg"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\scripts\\mootools-1.2-more.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\mootools-1.2-more.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\scripts\\mootools-1.2.1-core.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\mootools-1.2.1-core.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\scripts\\slideitmoo-1.1.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\slideitmoo-1.1.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\stylesheet\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\stylesheet\\styles.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\assets\\templatemo_style.css",
+      "PackagePath": "staticwebassets\\assets\\templatemo_style.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\pinkshop\\pinkshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.pinkshop.props",
+      "PackagePath": "build\\pinkshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.pinkshop.props",
+      "PackagePath": "buildMultiTargeting\\pinkshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.pinkshop.props",
+      "PackagePath": "buildTransitive\\pinkshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.pinkshop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
